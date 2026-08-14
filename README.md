@@ -25,18 +25,14 @@ Associate Professor | AI & Distributed Computing Researcher
 📡 Distributed Systems  
 🔬 TinyML
 
- Featured Projects
+## New repositories & projects
 
 | Project | Description |
 |---|---|
 |  explainable-heart-diseas-detection-classifier  | Explainable AI for explaining results of calssification of heart diseas |
 |  house-price-prediction | Predicting house prices using regression models with highest accuracy |
 
-### GitHub Stats
-
-<!-- statistics can be added here -->
-
-### Contact
+## Contact
 
 📧 ma1358@gmail.com
 📧 maabbasi@cs.umu.se
