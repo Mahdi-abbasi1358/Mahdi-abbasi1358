@@ -12,18 +12,6 @@ Associate Professor | AI & Distributed Computing Researcher
 
 ---
 
-### About Me
-
-I am a researcher working at the intersection of:
-
-- Artificial Intelligence
-- Distributed Computing
-- Edge/Fog Computing
-- Autonomous Systems
-- Optimization
-- TinyML
-- Edge Intelligence
-
 ### Research Interests
 
 🧠 Machine Learning  
