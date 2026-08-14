@@ -46,4 +46,8 @@ I am a researcher working at the intersection of:
 
 ### Contact
 
-📧 your-email@example.com
+📧 ma1358@gmail.com
+📧 maabbasi@cs.umu.se
+📧 m.abasi@ipm.ir
+📧 abbasi@basu.ac.ir
+
