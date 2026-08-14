@@ -11,7 +11,11 @@ Associate Professor | AI & Distributed Computing Researcher
 </p>
 
 ---
-
+<p align="center">
+  <img src="./assets/research-banner.png"
+       alt="Mahdi Abbasi Research Areas"
+       width="100%">
+</p>
 ### Research Interests
 
 🧠 Machine Learning  
