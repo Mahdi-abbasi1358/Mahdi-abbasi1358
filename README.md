@@ -17,15 +17,6 @@ Associate Professor | AI & Distributed Computing Researcher
        width="100%">
 </p>
  
- ## Research Interests
-
-🧠 Machine Learning  
-☁️ Edge–Cloud Computing  
-🤖 Autonomous Computing  
-⚡ AI Acceleration  
-📡 Distributed Systems  
-🔬 TinyML
-
 ## New repositories & projects
 
 | Project | Description |
