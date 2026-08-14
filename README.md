@@ -38,8 +38,7 @@ I am a researcher working at the intersection of:
 | Project | Description |
 |---|---|
 |  explainable-heart-diseas-detection-classifier  | Explainable AI for explaining results of calssification of heart diseas |
-|  | Tiny decision-tree models for resource-constrained systems |
-| AdaptFedDS | Federated learning for distributed systems |
+|  house-price-prediction | Predicting house prices using regression models with highest accuracy |
 
 ### GitHub Stats
 
