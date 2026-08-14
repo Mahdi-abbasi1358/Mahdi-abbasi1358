@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Mahdi Abbasi</h1>
 
-<!--
-**Mahdi-abbasi1358/Mahdi-abbasi1358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Associate Professor | AI & Distributed Computing Researcher
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://scholar.google.com/">Google Scholar</a> •
+<a href="https://www.linkedin.com/">LinkedIn</a> •
+<a href="https://orcid.org/">ORCID</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+I am a researcher working at the intersection of:
+
+- Artificial Intelligence
+- Distributed Computing
+- Edge/Fog Computing
+- Autonomous Systems
+- Optimization
+- TinyML
+- Edge Intelligence
+
+### Research Interests
+
+🧠 Machine Learning  
+☁️ Edge–Cloud Computing  
+🤖 Autonomous Computing  
+⚡ AI Acceleration  
+📡 Distributed Systems  
+🔬 TinyML
+
+### Featured Projects
+
+| Project | Description |
+|---|---|
+| TinyXCS | Lightweight online learning for edge devices |
+| TinyDT | Tiny decision-tree models for resource-constrained systems |
+| AdaptFedDS | Federated learning for distributed systems |
+
+### GitHub Stats
+
+<!-- statistics can be added here -->
+
+### Contact
+
+📧 your-email@example.com
